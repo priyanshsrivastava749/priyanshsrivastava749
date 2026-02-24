@@ -32,11 +32,11 @@ DevOps-Focused CS Student | Linux & Docker Learner | 125+ LeetCode Problems | Ex
 
 <p align="center">
 <a href="https://www.linkedin.com/in/priyansh-kumar-b3435a2b4/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/priyanshsrivastava749/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 </p>
 
@@ -61,7 +61,7 @@ DevOps-Focused CS Student | Linux & Docker Learner | 125+ LeetCode Problems | Ex
 </a>
 &nbsp;&nbsp;
 
-<a href="https://aws.amazon.com" target="_blank">
+<a href="https://aws.amazon.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;
@@ -71,7 +71,7 @@ DevOps-Focused CS Student | Linux & Docker Learner | 125+ LeetCode Problems | Ex
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;
@@ -89,15 +89,7 @@ DevOps-Focused CS Student | Linux & Docker Learner | 125+ LeetCode Problems | Ex
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshsrivastava749&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshsrivastava749&show_icons=true&locale=en" />
-</p>
+<h3 align="center">GitHub Activity</h3>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsrivastava749" />
